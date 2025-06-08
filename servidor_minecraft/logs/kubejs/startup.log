@@ -1,0 +1,11 @@
+[14:08:49] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
+[14:08:49] [INIT] Loaded plugins:
+[14:08:49] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[14:08:49] [INIT] - net.mehvahdjukaar.sawmill.integration.KubeJsPlugin
+[14:08:49] [INIT] - com.bobvarioa.kubejsarsnouveau.KubeJSArsNouveauPlugin
+[14:08:49] [INIT] - dev.latvian.mods.kubejs.create.KubeJSCreatePlugin
+[14:08:49] [INIT] - qinomed.kubejsdelight.KubeJSDelightPlugin
+[14:08:49] [INIT] - com.almostreliable.lootjs.kube.LootJSPlugin
+[14:08:49] [INIT] - com.prunoideae.KubeJSBotaniaPlugin
+[14:08:50] [INFO] Loaded script startup_scripts:worldgen.js in 0.165 s
+[14:08:50] [INFO] Loaded 1/1 KubeJS startup scripts in 0.827 s with 0 errors and 0 warnings
